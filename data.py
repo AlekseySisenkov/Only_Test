@@ -1,0 +1,1 @@
+HEADER_PAGE_REF = 'https://only.digital/'
