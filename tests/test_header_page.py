@@ -1,3 +1,3 @@
 class TestHeaderPage:
-    def test_logo_scooter(self, header_page):
+    def test_header(self, header_page):
         assert header_page.check_header()
